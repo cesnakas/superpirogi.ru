@@ -1,0 +1,97 @@
+.call_form_home_content {
+    width: 1000px;
+    float: left;
+    background: #f1f1f1;
+    padding: 20px 20px 20px 20px;
+    position: relative;
+    margin: 10px 0 30px 0;
+}
+
+span.sk_call_title1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    line-height: 50px;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    background: #f1f1f1;
+}
+
+div#sk_call_form_container1 {
+	width: 100%;
+    float: left;
+    margin: 30px 0 0 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+input.namepl {
+    float: left;
+    width: 25%;
+    margin: 10px 3% 0 3%;
+    font-size: 18px;
+    padding: 0px 15px;
+    line-height: 40px;
+    border: 1px solid black;
+}
+
+input#sk_mask_2 {
+    float: left;
+    width: 25%;
+    margin: 10px 2% 0 2%;
+    font-size: 18px;
+    border: 0;
+    padding: 0 15px;
+    line-height: 40px;
+    outline: 0;
+    box-shadow: none;
+    border: 1px solid black;
+}
+
+.otpravka {
+    width: 30%;
+    float: left;
+    margin: 10px 3% 0 0%;
+}
+
+.sk_call_private1 {
+    width: 100%;
+    float: right;
+    margin: 15px 0% 10px 0%;
+    font-size: 12px;
+    text-align: right;
+    color: black;
+    padding: 0 25px 0 0px;
+}
+
+.sk_call_private1 {
+    font-size: 12px;
+    text-align: right;
+    color: black;
+}
+
+.sk_call_private1 label {
+    font-weight: 400;
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+}
+
+a.sslksgl {
+    cursor: pointer;
+    color: #ef371d;
+    text-decoration: none;
+}
+
+input.btpl {
+    width: 80%;
+    margin: 0 0px 0 15%;
+    background: #da241a;
+    padding: 3px 10px 3px 10px;
+    color: white;
+    font-size: 18px;
+    line-height: 36px;
+    border: 1px solid black;
+}

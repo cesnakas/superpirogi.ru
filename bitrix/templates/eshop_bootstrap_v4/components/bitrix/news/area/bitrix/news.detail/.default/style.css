@@ -1,0 +1,8 @@
+	h1 {padding-top: 0 !important;padding-bottom: 0 !important;margin: 0 !important;}
+.offer_slide.asddzz img {clip-path: polygon(19% 0, 100% 0, 100% 0%, 100% 100%, 21% 100%, 0 65%);}
+img.prev.slick-arrow {width: 62px;font-family: 'slick';font-size: 20px;line-height: 1;opacity: .75;color: black !important;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;position: absolute;top: 151px;left: -28px;cursor: pointer;z-index: 9999;}
+img.next.slick-arrow {width: 62px;font-family: 'slick';font-size: 20px;line-height: 1;opacity: .75;color: black !important;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;position: absolute;top: 151px;cursor: pointer;z-index: 9999;right: -28px;}
+p.catalog_item-about {font-size: 13px;}
+
+.product-item-info-container.product-item-hidden.ass {left: 66% !important;}
+.titlekr {text-align: center;}
